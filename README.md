@@ -25,7 +25,7 @@
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
