@@ -17,7 +17,7 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** and Custom ROM building on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** **and and Custom ROM building**💪.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **web devlopmwnt projects**.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
