@@ -7,7 +7,7 @@
 <p>
   <em>
     I am a undergraduate from <a href="https://www.poornima.edu.in/"> <b>POORNIMA UNIVERSITY</b>, Jaipur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Web Developer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Tech   Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Medal.gif" width="20px">
