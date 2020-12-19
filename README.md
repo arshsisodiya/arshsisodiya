@@ -1,17 +1,12 @@
-# ARSH SISODIYA&nbsp;<img src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# ARSH SISODIYA&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Mario_Hello_Big.gif" width="30px">
 
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44.svg)](http://hits.dwyl.com/IMMANUEL44/IMMANUEL44) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/IMMANUEL44/IMMANUEL44/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/PC.gif" width="190" />
 
 ### <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Earth.gif" width="24px">
 
 <p>
   <em>
-    I am a undergraduate from <a href="https://www.srmist.edu.in/"> <b>POORNIMA UNIVERSITY</b>, Jaipur</a>.  
+    I am a undergraduate from <a href="https://www.poornima.edu.in/"> <b>POORNIMA UNIVERSITY</b>, Jaipur</a>.  
     A budding <b>Software Developer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Rocket.gif" width="18px">and 
@@ -23,7 +18,7 @@
 
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **web devlopmwnt projects**.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
@@ -33,7 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshsisodiya" alt="arshsisodiya" /> </p>
 
 
-![Immanuel's github stats](https://github-readme-stats.vercel.app/api?username=arshsisodiya&show_icons=true&hide_border=true)
+![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=arshsisodiya&show_icons=true&hide_border=true)
 
 <br>
 
