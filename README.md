@@ -47,5 +47,4 @@
 
 <br>
 <br>
-<a class="twitter-timeline" href="https://twitter.com/arsh_sisodiya?ref_src=twsrc%5Etfw">Tweets by Arsh Sisodiya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 # ARSH SISODIYA
