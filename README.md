@@ -41,7 +41,7 @@
 
 
 | [<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/) | [<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/arsh_sisodiya)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/arshsisodiya) | [<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Gmail.svg" alt="Gmail logo" height="32">](mailto:arshsisodiya@gmail.com)| [<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Twitter.svg" alt="twitter logo" width="32">](https://www.twitter.com/arsh_sisodiya)
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:||:---:|
 
 
 
