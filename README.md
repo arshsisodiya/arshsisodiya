@@ -3,7 +3,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/PC.gif" width="190" />
 
 ### <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Earth.gif" width="24px">
-<h3 align="center">git commit -m "Hello, I'm a Front end web developer"</h3>
+<h3>git commit -m "Hello, I'm a Front end web developer"</h3>
 <p>
   <em>
     I am graduated in BCA from <a href="https://www.poornima.edu.in/"> <b>POORNIMA UNIVERSITY</b>, Jaipur</a>.  
