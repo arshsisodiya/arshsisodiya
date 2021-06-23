@@ -35,9 +35,13 @@
 <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
-### What can I help with:question::cyclone:
+
+# What can I help with:question::cyclone:
+
 <code>git commit -m "Pretty much nerd stuffs and android custom rom development!"</code> :grin:
+
 <br>
+
 # Connect with me<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Handshake.gif" height="32px">
 
 
