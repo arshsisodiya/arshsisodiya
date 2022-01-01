@@ -3,11 +3,11 @@
 <img align="right" alt="PC GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/PC.gif" width="190" />
 
 ### <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Earth.gif" width="24px">
-<h3>git commit -m "Hello, I'm a Front end web developer"</h3>
+<h3>git commit -m "Hello, I'm a Developer"</h3>
 <p>
   <em>
     I am graduated in BCA from <a href="https://www.poornima.edu.in/"> <b>POORNIMA UNIVERSITY</b>, Jaipur</a>.  
-    A budding <b>Web Developer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Tech   Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Programmer</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Developer.gif" width="30px"> and a <b>Tech   Enthusiast,</b>&nbsp;<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to
     <b>grow</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Rocket.gif" width="18px">and
     <b>excel.</b> <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Medal.gif" width="20px">
@@ -17,8 +17,8 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* *Full stack Web Development* **and how to fix Relationship problems in friendship**.
-- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **web devlopmwnt projects**.
+- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* *Full stack Web Development* **and Telegram bot development**.
+- <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **web devlopment and telegram bot projects**.
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/happy.gif" width="20vw" /> * Don't Ask me* about **why do I think aliens 👽 exist.**
 - <img alt="GIF" src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
@@ -65,9 +65,9 @@
 
 # What can I help with:question::cyclone:
 
-<code>git commit -m "Pretty much nerd stuffs, Telegram bots, Custom ROM development,Suggetions about Love,Breakups and Relationships"</code> :grin:
+<code>git commit -m "Pretty much nerd stuffs, Telegram bots, Custom ROM development, and suggestions about which tech product to buy"</code> :grin:
 
-#Connect with me<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Handshake.gif" height="32px">
 
 <a href="https://www.instagram.com/bhagchand_.meena/"><img src="https://img.shields.io/badge/<bhagchand_.meena>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://twitter.com/arsh_sisodiya"><img src="https://img.shields.io/badge/<arsh_sisodiya>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -85,4 +85,4 @@
 <img src="https://github.com/arshsisodiya/arshsisodiya/blob/master/Data/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 
-###ARSH SISODIYA
+### ARSH SISODIYA
